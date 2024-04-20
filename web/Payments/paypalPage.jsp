@@ -15,6 +15,7 @@
           <form action="checkout.jsp" method="post">
         <input type="hidden" name="amount" value="10.00">
         <input type="submit" value="Pay with PayPal">
+        <H2>JSP Expressions</H2>
     </form>
     </body>
 </html>
